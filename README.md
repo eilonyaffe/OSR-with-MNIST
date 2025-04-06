@@ -1,6 +1,6 @@
 # 🧠 ADL Final Project — Open Set Recognition on MNIST
 
-This repository contains the final project for the **Advanced Deep Learning** course, exploring **Open Set Recognition (OSR)** using the MNIST dataset.
+This repository contains the final project for a **Deep Learning** course, exploring **Open Set Recognition (OSR)** using the MNIST dataset.
 
 ---
 
